@@ -1,0 +1,7 @@
+export * from './profile_view'
+export * from './home_view'
+export * from './applications_view'
+export * from './catalog_view'
+export * from './learning_platform_view'
+export * from './recommendations_view'
+export * from './saved_view'
